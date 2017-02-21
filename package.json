@@ -1,0 +1,26 @@
+{
+  "name": "js-dists",
+  "description": "minified js libs delivered as gh-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  },
+  "dependencies": {
+    "choo": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kr1sp1n/js-dists.git"
+  },
+  "author": "kr1sp1n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kr1sp1n/js-dists/issues"
+  },
+  "homepage": "https://github.com/kr1sp1n/js-dists#readme"
+}
